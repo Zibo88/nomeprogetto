@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import FirstTitle from './components/HelloWorld.vue'
+import FirstTitle from './components/FirstTitle.vue'
 
 export default {
   name: 'App',
